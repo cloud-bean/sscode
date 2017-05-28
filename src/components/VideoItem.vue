@@ -2,7 +2,7 @@
 
   <div class="video-item">
     <div class="video-title">
-      食色代码-找人
+      觅色
     </div>
     <div class="video-content">
       <img src="../assets/1.jpeg" alt="" />
@@ -45,11 +45,18 @@ h3{
 
 }
 .video-item{
-
+  background-color: hotpink;
+  border-radius: 10px;
+  padding: 0;
+  margin: 20px 5px;
 }
 .video-title{
   font-size: 2rem;
   color: #777;
+  padding: 5px;
+}
+.video-info{
+  padding: 5px;
 }
 .video-content img{
   width: 100%;
