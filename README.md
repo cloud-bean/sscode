@@ -1,6 +1,6 @@
 # sscode
-
-> A Vue.js project
+> 食色代码
+> build with the love of Vue.js
 
 ## Build Setup
 
